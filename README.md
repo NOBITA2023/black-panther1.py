@@ -74,9 +74,9 @@ git clone https://github.com/NOBITA2023/black-panther1.py.git
 
 ```
 
-ls && cd Black-Panther && ls
+ls && cd Black-Panther1 && ls
 
-python2 Black-Panther.py 
+python2 Black-Panther1.py 
 
 ```
 
