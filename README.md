@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://github.com/NOBITA2023/black-panther1.py.git"><img title="N O B I T A " src="https://github-readme-stats.vercel.app/api?username=NOBITA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/NOBITA2023/black-panther1.py.git"><img title="N O B I T A "src="https://github-readme-stats.vercel.app/api?username=NOBITA&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 </p>
 
