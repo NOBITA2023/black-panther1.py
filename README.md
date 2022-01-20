@@ -16,7 +16,7 @@
 
 <h1 align="center">NOBITA V1</h1>
 
-<p align="center">      ACCOUNT CLONER FOR TERMUX USERS</p>
+<p align="center">      ACCOUNT CLONER FOR TERMUX USERS</p>BALCK-PANTHER
 
 ## ***About NOBITA V1***:
 
